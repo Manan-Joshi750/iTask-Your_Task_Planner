@@ -22,12 +22,13 @@ Currently, two official plugins are available :
 
 # 🛠️ Tech Stack
 
-🌐 Technology	📖 Documentation
-React	React Docs
-Node.js	Node.js Docs
-Express	Express Docs
-MongoDB	MongoDB Docs
-Vite	Vite Docs
+| 🌐 Technology     | 📖 Documentation                                   |
+|-------------------|----------------------------------------------------|
+| **React**         | [React Docs](https://react.dev/)                   |
+| **Node.js**       | [Node.js Docs](https://nodejs.org/)                |
+| **Express**       | [Express Docs](https://expressjs.com/)             |
+| **MongoDB**       | [MongoDB Docs](https://www.mongodb.com/docs/)      |
+
 
 # 🚀 Getting Started
 
